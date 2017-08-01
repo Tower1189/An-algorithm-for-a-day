@@ -1,5 +1,4 @@
-# array = [7, 2, 5, 4, 1, 8, 12, 1, 4]
-array = [1, 2, 3, 4, 5]
+array = [7, 2, 5, 4, 1, 8, 12, 1, 4]
 
 for j in range(len(array) - 1):
   arrayCopy = array.copy()

@@ -1,6 +1,5 @@
 // bubble sort 
-// const array = [7, 2, 5, 4, 1, 8, 12, 1, 4]
-const array = [1, 2, 3, 4, 5]
+const array = [7, 2, 5, 4, 1, 8, 12, 1, 4]
 
 // method one
 for (let j = 0; j < array.length - 1; j++) {
