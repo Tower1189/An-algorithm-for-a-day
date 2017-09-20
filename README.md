@@ -5,7 +5,7 @@
 4. Selction Sort 选择排序
 5. Insertion Sort插入排序
 6. Shell Sort希尔排序
-7. Quicksort 快速排序
-8. 归并排序	
-9. 堆排序
+7. Quick Sort 快速排序
+8. Merge Sort归并排序	
+9. Heap Sort堆排序
 10. 基数排序
