@@ -17,6 +17,7 @@ def merge_sort(lists):
     if len(lists) <= 1:
         return lists
     num = len(lists) // 2
+    print lists[:num]
     left = merge_sort(lists[:num])
     right = merge_sort(lists[num:])
     return merge(left, right)
